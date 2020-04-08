@@ -31,3 +31,5 @@ http://lacity.org
 
 The government website for the city of Los Angeles is a comprehensive platform that works similarly to the Torrance website except that it operates on a larger scale to accomodate its greater population. I believe that the website could benefit from UX features such as drop-down menus and a help or support section that would allow its users to find what they are looking for faster.
 
+
+
