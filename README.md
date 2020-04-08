@@ -1,2 +1,2 @@
-# DH150-Sean
+# DH150-SeanGeber
 for class demonstration
