@@ -6,9 +6,21 @@ I will be performing a heuristic examination of the government websites for my h
 
 City of Torrance homepage
 http://torranceca.gov
+
+
+
+
+
+
 <img src="./torrance-screenshot.JPG" width="50%">
 
 City of Los Angeles homepage
 http://lacity.org
+
+
+
+
+
+
 <img src="./losangeles-screenshot.JPG" width="50%">
 
